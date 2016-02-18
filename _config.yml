@@ -1,7 +1,7 @@
 name: IndulgeMagazine
 favicon: null
-layout_spectrum: 0.705688315210864
-typography_spectrum: 0.9532840754836798
+layout_spectrum: 0.7503
+typography_spectrum: 0.49759
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#5a7a93'
+    - '#fffefc'
+    - '#354959'
+    - '#9aaebb'
+    - '#beccd5'
   brandStrength: 0.4381210491992533
   lightness: 0.8562542460858822
   saturation: 0.32264120457693934
